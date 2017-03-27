@@ -14,74 +14,140 @@
     <link href="https://www.fontify.me/wf/6bec3bcce4b3a9cce868047d9241e28a" rel="stylesheet" type="text/css">
     <!--Font SFCompactText Bold-->
     <link href="https://www.fontify.me/wf/c0a9c06d035b581c9693170bc9ba44f8" rel="stylesheet" type="text/css">
+    <!--jQuery-->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script>
+        $(document).ready(function($){
+            $('.menu-icon').click(function(){
+                $('#content-menu').slideToggle(200);
+            });
+        });
+    </script>
     <title>Document</title>
 </head>
 <body>
-    <div class="container-fluid all-page">
+    <div class="container-fluid wrapper-page">
         <div class="row">
-            <div class="col-md-12 wrapper-page">
+            <div class="col-md-12 all-page">
                 <div class="col-md-2 sidebar">
                     <div class="sidebar-head text-center">
-                        <p>SuccesField</p>
+                        <img src="img/successfield.png" alt="SuccessField">
                     </div>
                     <div class="sidebar-content">
-                        <div class="avatar">
-                            Avatarka
-                            LogOut
+                        <div class="col-md-12 ava">
+                            <div class="avatar"></div>
+                            <div class="avatar-text">
+                                <p class="name color-text">Selby Webb</p>
+                                <p class="logout"><a href="">Logout</a></p>
+                            </div>
                         </div>
                         <hr>
-                        <label for="sidebar-navigation">ACCOUNTS</label>
+                        <label class="label-nav color-text" for="sidebar-navigation">ACCOUNTS</label>
                         <ul id="sidebar-navigation">
                             <li><a href="#">SuccessField Influencers</a></li>
-                            <li><a href="#">Companies</a></li>
+                            <li class="active"><a href="#">Companies</a></li>
                             <li><a href="#">Influencers</a></li>
                         </ul>
                         <hr>
-                        <p>Settings</p>
+                        <p class="settings">Settings</p>
                     </div>
                 </div>
                 <div class="col-md-10 main">
                     <div class="header">
+                        <div class="glyphicon glyphicon-menu-hamburger menu-icon">
+                        </div>
                         <p class="text-center">Companies</p>
                     </div>
                     <div class="col-md-12 content" style="margin-top: 25px;">
-                        <h2>Overview</h2>
+                        <div class="col-md-12 menu">
+                            <ul id="content-menu">
+                                <li><a href="">Company</a></li>
+                                <li><a href="">Users</a></li>
+                                <li><a href="">Earnings</a></li>
+                                <li><a href="">Products</a></li>
+                                <li><a href="">Requests</a></li>
+                                <li><a href="">Applicatopns</a></li>
+                                <li><a href="">Influencers</a></li>
+                            </ul>
+                        </div>
+                        <div class="col-md-6 content-title">
+                            <h2>Overview</h2>
+                        </div>
+                        <div class="col-md-6 text-right content-search">
+                            <div class="input-group ">
+                                <span class="input-group-btn">
+                                    <button class="btn btn-secondary search-bg" type="button">
+                                        <span class="glyphicon glyphicon-search"></span>
+                                    </button>
+                                </span>
+                                <input type="text" class="form-control search search-bg" placeholder="Search for comparies...">
+                                <div class="col-md-3 add-col text-left">
+                                    <a href="#">Create</a>
+                                    <a href="#">Delete</a>
+                                </div>
+                            </div>
+                        </div>
                         <table class="table">
                             <thead>
                                 <tr>
+                                    <th>
+                                        <input type="checkbox" id="checkbox-all">
+                                        <label for="checkbox-all"></label>
+                                    </th>
                                     <th>Influencer</th>
                                     <th>Account manager</th>
                                     <th>Website</th>
-                                    <th>Email</th>
+                                    <th>E-mail</th>
                                 </tr>
                             </thead>
                             <tbody>
                                 <tr>
-                                    <td><a href="#">Cornavin Watch Company AG</a></td>
-                                    <td><a href="">Froogies AG</a></td>
-                                    <td><a href="">MVMT Watches Inc.</a></td>
-                                    <td><a href="#">Asos.com Ltd.</a></td>
-                                </tr>
-                                <tr>
-                                    <td><a href="#">Omar Najari</a></td>
-                                    <td><a href="#">Philippe Nissl</a></td>
-                                    <td><a href="#">Jake Cassan</a></td>
-                                    <td><a href="#">Nick Beighton</a></td>
-                                </tr>
-                                <tr>
-                                    <td><a href="#">www.cornavin-watches.com</a></td>
-                                    <td><a href="#">www.froogies.com</a></td>
-                                    <td><a href="#">www.mvmt-watches.com</a></td>
-                                    <td><a href="#">www.asos.com</a></td>
-                                </tr>
-                                <tr>
+                                    <td>
+                                        <input type="checkbox" id="checkbox-1">
+                                        <label for="checkbox-1"></label>
+                                    </td>
+                                    <td><a href="#" class="color-text">_____________________</a></td>
+                                    <td><a href="">Omar Najari</a></td>
+                                    <td><a href="">www.cornavin-watches.ch</a></td>
                                     <td><a href="#">info@cornavin-watches.ch</a></td>
-                                    <td><a href="#">info@groogies.com</a></td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <input type="checkbox" id="checkbox-2">
+                                        <label for="checkbox-2"></label>
+                                    </td>
+                                    <td><a href="#">Froogies AG</a></td>
+                                    <td><a href="">Philippe Nissi</a></td>
+                                    <td><a href="">www.froogies.com</a></td>
+                                    <td><a href="#">info@froogies.com</a></td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <input type="checkbox" id="checkbox-3">
+                                        <label for="checkbox-3"></label>
+                                    </td>
+                                    <td><a href="#">MVMTWatches Inc.</a></td>
+                                    <td><a href="">Jake Cassan</a></td>
+                                    <td><a href="">www.mvmt-watches.com</a></td>
                                     <td><a href="#">info@mvmt-watches.com</a></td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <input type="checkbox" id="checkbox-4">
+                                        <label for="checkbox-4"></label>
+                                    </td>
+                                    <td><a href="#">Asos.com.Ltd.</a></td>
+                                    <td><a href="">Nick Beighton</a></td>
+                                    <td><a href="">www.asos.com</a></td>
                                     <td><a href="#">info@asos.com</a></td>
                                 </tr>
                             </tbody>
                         </table>
+                        <div class="col-md-12 text-right pagination">
+                            <div class="glyphicon glyphicon-menu-left"></div>
+                            <span class="color-text">Page 1 of 1</span>
+                            <div class="glyphicon glyphicon-menu-right"></div>
+                        </div>
                     </div>
                 </div>
             </div>

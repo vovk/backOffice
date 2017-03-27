@@ -19,19 +19,58 @@ body{
     font-family: font92713; /*SF Compact Text Bold*/
 }
 hr{
+    border-color: #D1DDE2!important;
     margin-top: 40px!important;
     margin-bottom: 50px!important;
+    width: 100%;
 }
 /*******************1.html******************/
 /*sidebar*/
-.all-page, .row, .wrapper-page, .sidebar, .sidebar-content{
+.active{
+    background-color: #3277E3;
+}
+.active a{
+    color: #ffffff!important;
+}
+.ava{
+    padding: 30px!important;
+}
+.avatar, .avatar-text{
+    float: left;
+}
+.avatar{
+    background-color: #353434;
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+}
+.avatar-text{
+    height: 100px;
+    margin-left: 30px;
+}
+.color-text{
+    background-color: #e7c3c3;
+}
+.name{
+    color: #6C7A86;
+    font-family: font92709;
+    font-size: 15pt;
+    margin-top: 20px;
+}
+.logout{
+    font-family: font92709;
+    font-size: 14pt;
+}
+.wrapper-page, .row, .all-page, .sidebar{
     height: 100%;
 }
-.wrapper-page{
+.all-page{
     padding-left: 0!important;
     padding-right: 0!important;
 }
 .sidebar{
+    background-color: #F5F9FC;
+    border-right: 1px solid #D1DDE2;
     padding-left: 0!important;
     padding-right: 0!important;
 }
@@ -44,19 +83,17 @@ hr{
     height: 60px;
     line-height: 60px;
 }
-.sidebar-content{
-    background-color: #E6E7E8;
-}
-.sidebar-content label{
-    background-color: #e7c3c3;
+.sidebar-content label.label-nav{
     color: #6C7A86;
+    font-size: 15pt;
     font-family: font92713;
     margin-left: 30px;
     margin-bottom: 50px;
 }
-.sidebar-content p{
+.sidebar-content p.settings{
     color: #6C7A86;
     font-family: font92709;
+    font-size: 15pt;
     font-weight: 700;
     margin-left: 30px;
 }
@@ -71,19 +108,13 @@ ul#sidebar-navigation li{
 ul#sidebar-navigation li a{
     color: #6C7A86;
     font-family: font92709;
-    font-size: 15px;
+    font-size: 15pt;
     font-weight: 700;
     display: block;
     padding-left: 30px;
     text-decoration: none;
 }
-/*ul#sidebar-navigation li a:hover{*/
-    /*background: #3277E3;*/
-    /*color: #fff;*/
-    /*display: block;*/
-    /*height: 40px;*/
-    /*line-height: 40px;*/
-/*}*/
+
 /*content*/
 .main{
     padding-left: 0!important;
@@ -91,6 +122,108 @@ ul#sidebar-navigation li a{
 .header{
     background-color: #535660;
     color: #ffffff;
+    font-family: font92713;
+    font-size: 18pt;
     height: 60px;
     line-height: 60px;
+    position: relative;
 }
+.main .menu-icon{
+    position: absolute;
+    top: 20px;
+    left: 25px;
+}
+table.table tr td a{
+    color: #3277E3;
+}
+table.table tr{
+    font-size: 14pt;
+    font-family: font92721;
+}
+.content .content-title, .content .content-search{
+    padding: 0!important;
+}
+.content .content-title h2{
+    margin-top: 0;
+    margin-bottom: 80px;
+}
+.content .content-search .form-control.search{
+    width: 50%;
+}
+.content .content-search .search-bg{
+    background-color: #F5F9FC;
+}
+.content .content-search .form-control.search.search-bg{
+    border: none;
+    box-shadow: none;
+}
+.content .glyphicon.glyphicon-search{
+    color: #A9A8AE;
+}
+.add-col{
+    display: flex;
+    align-items: center;
+    height: 34px;
+    justify-content: space-around;
+}
+.add-col a{
+    color: #6C7A86;
+    font-family: font92721;
+}
+/*---checkbox---*/
+.content label {
+    display: inline-block;
+    cursor: pointer;
+    padding-right: 10px;
+    position: relative;
+}
+.content label:before {
+    border: 1px solid #eeeeee;
+    content: "";
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    margin-right: 10px;
+    position: absolute;
+    left: 0;
+    bottom: -6px;
+    background-color: #ffffff;
+    /*box-shadow: inset 0px 2px 3px 0px rgba(0, 0, 0, .3), 0px 1px 0px 0px rgba(255, 255, 255, .8);*/
+}
+
+.content input[type=checkbox] {
+    display: none;
+}
+.content .checkbox label:before {
+    border-radius: 3px;
+}
+.content input[type=checkbox]:checked + label:before {
+    content: "\2713";
+    font-size: 15px;
+    color: limegreen;
+    text-align: center;
+    line-height: 15px;
+}
+/*---/ checkbox---*/
+.pagination span{
+    color: #000;
+    font-family: font92721;
+    margin: 0 50px;
+}
+.pagination .glyphicon.glyphicon-menu-right, .pagination .glyphicon.glyphicon-menu-left{
+    color: #A9A8AE;
+}
+
+/*---content-menu---*/
+    ul#content-menu{
+        display: none;
+    }
+    ul#content-menu{
+        height: 30px;
+        list-style: none;
+    }
+    ul#content-menu li{
+        float: left;
+        padding: 10px 30px;
+    }
+/*---/ content-menu---*/
