@@ -2,17 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e37bac5-5195-41ca-af3c-2b887065df18" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Companies/1-influencers.html" afterPath="$PROJECT_DIR$/Companies/1-influencers.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Companies/1.html" afterPath="$PROJECT_DIR$/Companies/1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Companies/11-influencers-referrals.html" afterPath="$PROJECT_DIR$/Companies/11-influencers-referrals.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Companies/12-requests.html" afterPath="$PROJECT_DIR$/Companies/12-requests.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Companies/13-request.html" afterPath="$PROJECT_DIR$/Companies/13-request.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Companies/15-applications.html" afterPath="$PROJECT_DIR$/Companies/15-applications.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Companies/17-influencers.html" afterPath="$PROJECT_DIR$/Companies/17-influencers.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Companies/18-influencer.html" afterPath="$PROJECT_DIR$/Companies/18-influencer.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Companies/2-company.html" afterPath="$PROJECT_DIR$/Companies/2-company.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Companies/2-influencers-influencer.html" afterPath="$PROJECT_DIR$/Companies/2-influencers-influencer.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Companies/3-users.html" afterPath="$PROJECT_DIR$/Companies/3-users.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Companies/4-influencers-earnings.html" afterPath="$PROJECT_DIR$/Companies/4-influencers-earnings.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Companies/4-user.html" afterPath="$PROJECT_DIR$/Companies/4-user.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Companies/5-earnings.html" afterPath="$PROJECT_DIR$/Companies/5-earnings.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Companies/5-influencers-sales.html" afterPath="$PROJECT_DIR$/Companies/5-influencers-sales.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Companies/6-influencers-products.html" afterPath="$PROJECT_DIR$/Companies/6-influencers-products.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Companies/6-sales.html" afterPath="$PROJECT_DIR$/Companies/6-sales.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Companies/7-products.html" afterPath="$PROJECT_DIR$/Companies/7-products.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Companies/8-product.html" afterPath="$PROJECT_DIR$/Companies/8-product.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Companies/js/content-menu.js" afterPath="$PROJECT_DIR$/Companies/js/content-menu.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Companies/style.css" afterPath="$PROJECT_DIR$/Companies/style.css" />
     </list>
     <ignored path="BackOffice.iws" />
@@ -33,7 +41,72 @@
     <favorites_list name="BackOffice" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Companies/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="58" column="27" lean-forward="false" selection-start-line="58" selection-start-column="27" selection-end-line="58" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2-influencers-influencer.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Companies/2-influencers-influencer.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="67" column="140" lean-forward="false" selection-start-line="67" selection-start-column="140" selection-end-line="67" selection-end-column="140" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="4-influencers-earnings.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Companies/4-influencers-earnings.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="69" column="120" lean-forward="false" selection-start-line="69" selection-start-column="120" selection-end-line="69" selection-end-column="120" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#article#0;n#section#0;n#section#0;n#div#3;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#article#1;n#section#0;n#section#0;n#div#3;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#article#2;n#section#0;n#section#0;n#div#3;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="5-influencers-sales.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Companies/5-influencers-sales.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="67" column="120" lean-forward="false" selection-start-line="67" selection-start-column="120" selection-end-line="67" selection-end-column="120" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="6-influencers-products.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Companies/6-influencers-products.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="67" column="138" lean-forward="false" selection-start-line="67" selection-start-column="138" selection-end-line="67" selection-end-column="138" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="11-influencers-referrals.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Companies/11-influencers-referrals.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="67" column="122" lean-forward="false" selection-start-line="67" selection-start-column="122" selection-end-line="67" selection-end-column="122" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -45,7 +118,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>Drop files here to upload</find>
       <find>produc</find>
       <find>drag</find>
       <find>butt</find>
@@ -75,6 +147,7 @@
       <find>create</find>
       <find>1-</find>
       <find>companies</find>
+      <find>back</find>
     </findStrings>
     <dirStrings>
       <dir>D:\OpenServer\domains\backOffice\Companies\dropzone-4.3.0</dir>
@@ -97,7 +170,6 @@
         <option value="$PROJECT_DIR$/Companies/3-influencers-earning.html" />
         <option value="$PROJECT_DIR$/Companies/4-influencers-earning.html" />
         <option value="$PROJECT_DIR$/Companies/7-influencers-products.html" />
-        <option value="$PROJECT_DIR$/Companies/style.css" />
         <option value="$PROJECT_DIR$/Companies/1.html" />
         <option value="$PROJECT_DIR$/Companies/1.html" />
         <option value="$PROJECT_DIR$/Companies/2-company.html" />
@@ -109,15 +181,16 @@
         <option value="$PROJECT_DIR$/Companies/8-product.html" />
         <option value="$PROJECT_DIR$/Companies/12-requests.html" />
         <option value="$PROJECT_DIR$/Companies/13-request.html" />
+        <option value="$PROJECT_DIR$/Companies/17-influencers.html" />
+        <option value="$PROJECT_DIR$/Companies/18-influencer.html" />
         <option value="$PROJECT_DIR$/Companies/15-applications.html" />
+        <option value="$PROJECT_DIR$/Companies/style.css" />
         <option value="$PROJECT_DIR$/Companies/1-influencers.html" />
         <option value="$PROJECT_DIR$/Companies/2-influencers-influencer.html" />
         <option value="$PROJECT_DIR$/Companies/4-influencers-earnings.html" />
         <option value="$PROJECT_DIR$/Companies/5-influencers-sales.html" />
         <option value="$PROJECT_DIR$/Companies/6-influencers-products.html" />
         <option value="$PROJECT_DIR$/Companies/11-influencers-referrals.html" />
-        <option value="$PROJECT_DIR$/Companies/17-influencers.html" />
-        <option value="$PROJECT_DIR$/Companies/18-influencer.html" />
       </list>
     </option>
   </component>
@@ -153,6 +226,16 @@
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="backOffice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="backOffice" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="backOffice" />
@@ -279,17 +362,18 @@
       <workItem from="1491285560850" duration="12569000" />
       <workItem from="1491373738249" duration="7553000" />
       <workItem from="1491385501852" duration="10958000" />
-      <workItem from="1491462213694" duration="11864000" />
+      <workItem from="1491462213694" duration="14044000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="122665000" />
+    <option name="totallyTimeSpent" value="124845000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.146875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.146875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -394,7 +478,7 @@
         <state relative-caret-position="697">
           <caret line="41" column="31" lean-forward="false" selection-start-line="41" selection-start-column="31" selection-end-line="41" selection-end-column="31" />
           <folding>
-            <element signature="n#style#0;n#p#19;n#div#3;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#19;n#div#3;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -558,10 +642,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Companies/style.css">
+    <entry file="file://$PROJECT_DIR$/Companies/2-company.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="752">
-          <caret line="480" column="17" lean-forward="false" selection-start-line="480" selection-start-column="17" selection-end-line="480" selection-end-column="17" />
+        <state relative-caret-position="272">
+          <caret line="40" column="26" lean-forward="true" selection-start-line="40" selection-start-column="26" selection-end-line="40" selection-end-column="26" />
           <folding />
         </state>
       </provider>
@@ -569,41 +653,63 @@
     <entry file="file://$PROJECT_DIR$/Companies/1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
-          <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <caret line="70" column="103" lean-forward="false" selection-start-line="70" selection-start-column="103" selection-end-line="70" selection-end-column="103" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Companies/2-company.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="479">
-          <caret line="47" column="25" lean-forward="true" selection-start-line="47" selection-start-column="25" selection-end-line="47" selection-end-column="25" />
-          <folding>
-            <element signature="n#style#0;n#p#19;n#div#3;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Companies/3-users.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="46" column="24" lean-forward="true" selection-start-line="46" selection-start-column="24" selection-end-line="46" selection-end-column="77" />
+        <state relative-caret-position="289">
+          <caret line="70" column="109" lean-forward="false" selection-start-line="70" selection-start-column="109" selection-end-line="70" selection-end-column="109" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Companies/4-user.html">
+    <entry file="file://$PROJECT_DIR$/Companies/13-request.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="46" column="77" lean-forward="false" selection-start-line="46" selection-start-column="77" selection-end-line="46" selection-end-column="77" />
+        <state relative-caret-position="649">
+          <caret line="74" column="127" lean-forward="false" selection-start-line="74" selection-start-column="127" selection-end-line="74" selection-end-column="127" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Companies/12-requests.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="607">
+          <caret line="70" column="127" lean-forward="false" selection-start-line="70" selection-start-column="127" selection-end-line="70" selection-end-column="127" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Companies/8-product.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="74" column="135" lean-forward="false" selection-start-line="74" selection-start-column="135" selection-end-line="74" selection-end-column="135" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Companies/7-products.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="70" column="28" lean-forward="false" selection-start-line="70" selection-start-column="28" selection-end-line="70" selection-end-column="135" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Companies/6-sales.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="70" column="108" lean-forward="false" selection-start-line="70" selection-start-column="108" selection-end-line="70" selection-end-column="108" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Companies/5-earnings.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="48" column="77" lean-forward="false" selection-start-line="48" selection-start-column="77" selection-end-line="48" selection-end-column="77" />
+        <state relative-caret-position="708">
+          <caret line="72" column="126" lean-forward="false" selection-start-line="72" selection-start-column="126" selection-end-line="72" selection-end-column="126" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#article#0;n#section#0;n#section#0;n#div#3;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#article#1;n#section#0;n#section#0;n#div#3;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -612,77 +718,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Companies/6-sales.html">
+    <entry file="file://$PROJECT_DIR$/Companies/4-user.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="46" column="77" lean-forward="false" selection-start-line="46" selection-start-column="77" selection-end-line="46" selection-end-column="77" />
+        <state relative-caret-position="289">
+          <caret line="70" column="105" lean-forward="false" selection-start-line="70" selection-start-column="105" selection-end-line="70" selection-end-column="105" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Companies/7-products.html">
+    <entry file="file://$PROJECT_DIR$/Companies/17-influencers.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="46" column="77" lean-forward="false" selection-start-line="46" selection-start-column="77" selection-end-line="46" selection-end-column="77" />
+        <state relative-caret-position="527">
+          <caret line="70" column="28" lean-forward="false" selection-start-line="70" selection-start-column="28" selection-end-line="70" selection-end-column="142" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Companies/8-product.html">
+    <entry file="file://$PROJECT_DIR$/Companies/18-influencer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="50" column="77" lean-forward="false" selection-start-line="50" selection-start-column="77" selection-end-line="50" selection-end-column="77" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Companies/12-requests.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="46" column="77" lean-forward="false" selection-start-line="46" selection-start-column="77" selection-end-line="46" selection-end-column="77" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Companies/13-request.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="50" column="77" lean-forward="false" selection-start-line="50" selection-start-column="77" selection-end-line="50" selection-end-column="77" />
+        <state relative-caret-position="527">
+          <caret line="70" column="28" lean-forward="false" selection-start-line="70" selection-start-column="28" selection-end-line="70" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Companies/15-applications.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="46" column="77" lean-forward="false" selection-start-line="46" selection-start-column="77" selection-end-line="46" selection-end-column="77" />
+        <state relative-caret-position="708">
+          <caret line="70" column="135" lean-forward="false" selection-start-line="70" selection-start-column="135" selection-end-line="70" selection-end-column="135" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Companies/1-influencers.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="56" column="54" lean-forward="false" selection-start-line="56" selection-start-column="43" selection-end-line="56" selection-end-column="54" />
+        <state relative-caret-position="635">
+          <caret line="67" column="28" lean-forward="false" selection-start-line="67" selection-start-column="28" selection-end-line="67" selection-end-column="140" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Companies/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="58" column="27" lean-forward="false" selection-start-line="58" selection-start-column="27" selection-end-line="58" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Companies/2-influencers-influencer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="56" column="54" lean-forward="false" selection-start-line="56" selection-start-column="54" selection-end-line="56" selection-end-column="54" />
-          <folding>
-            <element signature="n#style#0;n#div#1;n#div#3;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#19;n#div#3;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="476">
+          <caret line="67" column="140" lean-forward="false" selection-start-line="67" selection-start-column="140" selection-end-line="67" selection-end-column="140" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Companies/4-influencers-earnings.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="58" column="54" lean-forward="false" selection-start-line="58" selection-start-column="54" selection-end-line="58" selection-end-column="54" />
+        <state relative-caret-position="476">
+          <caret line="69" column="120" lean-forward="false" selection-start-line="69" selection-start-column="120" selection-end-line="69" selection-end-column="120" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#article#0;n#section#0;n#section#0;n#div#3;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#article#1;n#section#0;n#section#0;n#div#3;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -693,47 +788,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Companies/5-influencers-sales.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="56" column="43" lean-forward="true" selection-start-line="56" selection-start-column="43" selection-end-line="56" selection-end-column="54" />
+        <state relative-caret-position="476">
+          <caret line="67" column="120" lean-forward="false" selection-start-line="67" selection-start-column="120" selection-end-line="67" selection-end-column="120" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Companies/6-influencers-products.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="56" column="54" lean-forward="false" selection-start-line="56" selection-start-column="54" selection-end-line="56" selection-end-column="54" />
-          <folding>
-            <element signature="n#style#0;n#hr#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="476">
+          <caret line="67" column="138" lean-forward="false" selection-start-line="67" selection-start-column="138" selection-end-line="67" selection-end-column="138" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Companies/11-influencers-referrals.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="56" column="54" lean-forward="false" selection-start-line="56" selection-start-column="54" selection-end-line="56" selection-end-column="54" />
-          <folding>
-            <element signature="n#style#0;n#hr#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Companies/17-influencers.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="56" column="54" lean-forward="false" selection-start-line="56" selection-start-column="54" selection-end-line="56" selection-end-column="54" />
+        <state relative-caret-position="476">
+          <caret line="67" column="122" lean-forward="false" selection-start-line="67" selection-start-column="122" selection-end-line="67" selection-end-column="122" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Companies/18-influencer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="56" column="54" lean-forward="false" selection-start-line="56" selection-start-column="54" selection-end-line="56" selection-end-column="54" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#3;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
