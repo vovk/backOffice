@@ -69,6 +69,10 @@ h2{
 .wrapper-page, .row, .all-page, .sidebar{
     height: 100%;
 }
+.main{
+    height:100%;
+    overflow: auto;
+}
 .wrapper-page, .row, .all-page{
     overflow: auto;
 }
@@ -152,6 +156,9 @@ table.table tr td a{
 table.table tr{
     font-size: 14pt;
     font-family: font92721;
+}
+.content{
+    padding-top: 25px;
 }
 .content .content-title, .content .content-search{
     padding: 0!important;
@@ -274,4 +281,202 @@ table.table tr{
         color: #3277E3;
     }
 /*5-earnings.html*/
-
+    .select-date, .graphic{
+        padding-bottom: 50px;
+    }
+    .select-date #date{
+        background: #F5F9FC;
+        border: none;
+        font-size: 14pt;
+        font-family: font92728;
+        padding: 10px 15px;
+        width: 300px;
+    }
+    .earnings-table{
+        background-color: #F5F9FC;
+    }
+/*8-product.html*/
+    .column{
+        column-count: 2;
+        -moz-column-count: 2;
+        -webkit-column-count: 2;
+        column-gap: 150px;
+        -moz-column-gap: 150px;
+        -webkit-column-gap: 150px;
+        font-weight: 700;
+    }
+    .item{
+        line-height: 3;
+    }
+    .item-name{
+        display: block;
+        float: left;
+        font-family: font92728;
+        width: 200px;
+    }
+    .item-value{
+        font-family: font92721;
+    }
+    .buttons{
+        padding-bottom: 50px;
+    }
+    .create-button, .cancel-button{
+        color: #ffffff;
+        padding: 10px 100px;
+    }
+    .create-button{
+        background-color: #2ABD17;
+        margin-left: 75px;
+    }
+    .cancel-button{
+        background-color: #6C7A86;
+    }
+/*drag and drop*/
+    .dropzone{
+        border: none!important;
+        /*min-height: 300px!important;*/
+    }
+    .dropzone .dz-preview .dz-success-mark, .dropzone .dz-preview .dz-error-mark{
+        /*top: 25%!important;*/
+    }
+    .dz-default {
+        background: url("img/dd.png") no-repeat center center;
+        border: 1px dashed #5D8DF4;
+        margin: auto!important;
+        position: relative;
+        width: 50px;
+        height: 50px;
+    }
+    .dz-default:after{
+        content: "Drag and drop photo file here";
+        display: table;
+        color: #5D8DF4;
+        font-size: 10pt;
+        font-family: font92721;
+        top: 55px;
+        left: -23px;
+        position: absolute;
+        width: 100px;
+    }
+/*13-request.html*/
+    .before-column{
+        font-family: font92728;
+        font-weight: 700;
+    }
+/*15-applications.html*/
+    .table-applications>thead>tr>th{
+        font-size: 15pt;
+        font-family: font92728;
+    }
+    .table-applications>tbody>tr>td{
+        font-size: 18pt;
+        font-family: font92728;
+    }
+    .table-applications>tbody>tr>td p{
+        font-size: 15pt;
+    }
+    .table-applications>tbody>tr>td:nth-of-type(1){
+        width: 60%;
+    }
+    .table-applications>tbody>tr>td:nth-of-type(2){
+        font-size: 15pt;
+        line-height: 70px;
+    }
+    .table-applications>tbody>tr>td:nth-of-type(3){
+        color: #A9A8AE;
+        font-size: 14pt;
+        line-height: 70px;
+    }
+    tbody>tr>td span img{
+        margin-right: 20px;
+    }
+    /*pop up*/
+    #myModal .modal-content{
+        -webkit-border-radius: 0;
+        -moz-border-radius: 0;
+        border-radius: 0;
+        left: -200px;
+        top: 200px;
+        width: 1000px;
+    }
+    #myModal .modal-header{
+        font-size: 21pt;
+        font-family: font92728;
+        padding: 15px 20px;
+    }
+    .th-popup{
+        color: #6C7A86;
+        font-size: 15pt;
+        font-family: font92721;
+    }
+    .td-popup{
+        color: #000;
+        font-size: 15pt;
+        font-family: font92721;
+    }
+/*17-1-influencers.html*/
+    /*.table-influencers>tbody>tr>td span img{*/
+        /*margin-right: 20px;*/
+    /*}*/
+    .table-influencer{
+        margin-bottom: 50px;
+    }
+    .table-influencer, .table-sales {
+        color: #000;
+        font-size: 15pt;
+        font-family: font92728;
+    }
+    .influencer-select #date{
+        background: #F5F9FC;
+        border: none;
+        font-size: 14pt;
+        font-family: font92728;
+        margin: 30px 0px 20px 0;
+        padding: 10px 15px;
+        width: 300px;
+    }
+    p.label-value span img{
+        margin-right: 20px;
+    }
+    /*tabs*/
+    section.wrapper{
+        position: relative;
+    }
+    ul.tabs {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        position: absolute;
+        right: 10px;
+        top: -85px;
+    }
+    ul.tabs li {
+        float: left;
+        margin: 0 50px 0 0;
+        padding: .25em .5em;
+    }
+    ul.tabs li a {
+        color: #6C7A86;
+        font-family: font92721;
+        text-decoration: none;
+    }
+    ul.tabs li.active {
+        background: #ffffff;
+    }
+    ul.tabs li.active a {
+        color: #3772F2!important;
+    }
+    .clr {
+        clear: both;
+    }
+    article {
+        /*border-top: gray solid 1px;*/
+        padding: 0 1em;
+    }
+/*11-influencers-referrals.html*/
+    p.gen_stats{
+        color: #38DA25;
+        position: absolute;
+        left: 120px;
+        top: 7px;
+    }

@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="style.css">
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <!--Font SFCompactText Regular-->
+    <link href="https://www.fontify.me/wf/bc325006419a7c5afa1e7cdab635d4ac" rel="stylesheet" type="text/css">
+    <!--Font SFCompactText Light-->
+    <link href="https://www.fontify.me/wf/6bec3bcce4b3a9cce868047d9241e28a" rel="stylesheet" type="text/css">
+    <!--Font SFCompactText Bold-->
+    <link href="https://www.fontify.me/wf/c0a9c06d035b581c9693170bc9ba44f8" rel="stylesheet" type="text/css">
+    <!--Font SFCompactText Medium-->
+    <link href="https://www.fontify.me/wf/e5ea205cdfa60018335ee3db6d585197" rel="stylesheet" type="text/css">
+    <!--jQuery-->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="js/content-menu.js"></script>
+    <!--.plot-->
+    <script src="flot/jquery.flot.js"></script>
+    <title>Document</title>
+</head>
+<body>
+<div class="container-fluid wrapper-page">
+    <div class="row">
+        <div class="col-md-12 all-page">
+            <div class="col-md-2 sidebar">
+                <div class="sidebar-head text-center">
+                    <img src="img/successfield.png" alt="SuccessField">
+                </div>
+                <div class="sidebar-content">
+                    <div class="col-md-12 ava">
+                        <div class="avatar"></div>
+                        <div class="avatar-text">
+                            <p class="name color-text">Selby Webb</p>
+                            <p class="logout"><a href="">Logout</a></p>
+                        </div>
+                    </div>
+                    <hr style="overflow: auto;">
+                    <label class="label-nav color-text" for="sidebar-navigation">ACCOUNTS</label>
+                    <ul id="sidebar-navigation">
+                        <li><a href="#">SuccessField Influencers</a></li>
+                        <li><a href="1.html">Companies</a></li>
+                        <li class="active"><a href="1-influencers.html">Influencers</a></li>
+                    </ul>
+                    <hr>
+                    <p class="settings">Settings</p>
+                </div>
+            </div>
+            <div class="col-md-10 main">
+                <div class="header">
+                    <div class="glyphicon glyphicon-menu-hamburger menu-icon">
+                    </div>
+                    <p class="text-center">Influencers</p>
+                </div>
+                <!--- CONTENT --->
+                <div class="col-md-12 content">
+                    <!-- content-menu -->
+                    <div class="col-md-12 menu">
+                        <ul id="content-menu">
+                            <li class="content-menu-li"><a class="content-menu-a focus" href="1-influencers.html">Influencers</a></li>
+                            <li class="content-menu-li"><a class="content-menu-a" href="4-influencers-earnings.html">Earnings</a></li>
+                            <li class="content-menu-li"><a class="content-menu-a" href="6-influencers-products.html">Products</a></li>
+                            <li class="content-menu-li"><a class="content-menu-a" href="11-influencers-referrals.html">Referalls</a></li>
+                            <li class="content-menu-li back" onclick="history.back()"><a class="content-menu-a" href="#">Back to influencer</a></li>
+                        </ul>
+                    </div>
+                    <!--/ content-menu -->
+                    <div class="col-md-6 content-title">
+                        <h2>Influencer</h2>
+                    </div>
+                    <div class="col-md-3 text-right add-col">
+                        <a href="#">Edit</a>
+                        <a href="#">Delete</a>
+                        <a href="#">Reset</a>
+                    </div>
+                    <!-- company -->
+                    <div class="col-md-12 content-main">
+                        <p class="col-md-3 label-name">Influencer's name</p>
+                        <p class="col-md-3 label-name">Username</p>
+                        <p class="col-md-3 label-name">Category</p>
+                        <p class="col-md-3 label-name">Password</p>
+                        <p class="col-md-3 label-value">Gary Vaynerchuk</p>
+                        <p class="col-md-3 label-value">garyvee</p>
+                        <p class="col-md-3 label-value">Business, Fitness</p>
+                        <p class="col-md-3 label-value">*********************</p>
+                        <div class="col-md-12" style="height: 50px; width: 100%;"></div>
+                        <!---->
+                        <p class="col-md-3 label-name">Main address</p>
+                        <p class="col-md-3 label-name">Payment address</p>
+                        <p class="col-md-3 label-name">Phone</p>
+                        <p class="col-md-3 label-name">Bank account</p>
+                        <p class="col-md-3 label-value">Löwenstrasse 25 <br> 8001 Zürich</p>
+                        <p class="col-md-3 label-value">Same as main address </p>
+                        <p class="col-md-3 label-value">+41 44 260 66 61</p>
+                        <p class="col-md-3 label-value">IBAN 	CH60 0900 0000 3183 72 36 9<br>BIC		POFICHBEXXX</p>
+                        <div class="col-md-12" style="height: 50px; width: 100%;"></div>
+                        <!---->
+                        <p class="col-md-3 label-name">Website</p>
+                        <p class="col-md-3 label-name">Email</p>
+                        <p class="col-md-3 label-name">Social media</p>
+                        <p class="col-md-3 label-name" style="width: 100%;"></p>
+                        <p class="col-md-3 label-value"><a href="">www.garyvaynerchuk.com</a></p>
+                        <p class="col-md-3 label-value"><a href="">gary@vaynermedia.com</a></p>
+                        <p class="col-md-3 label-value">
+                            <span>
+                                <a href=""><img src="img/instagram.png" alt=""></a><a href=""><img src="img/fb.png" alt=""></a><a
+                                    href=""><img src="img/kolokol.png" alt=""></a>
+                                <a href=""><img src="img/youtube.png" alt=""></a><a href=""><img src="img/twitter.png" alt=""></a>
+                            </span>
+                        </p>
+                        <p class="col-md-3 label-value"></p>
+                    </div>
+                    <!--/ company -->
+                </div>
+                <!---/ CONTENT --->
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="js/bootstrap.min.js"></script>
+</body>
+</html>

@@ -21,6 +21,10 @@
     <script src="js/content-menu.js"></script>
     <!--.plot-->
     <script src="flot/jquery.flot.js"></script>
+    <!--Dropzone-->
+    <script src="dropzone-4.3.0/dist/dropzone.js"></script>
+    <link rel="stylesheet" href="dropzone-4.3.0/dist/dropzone.css">
+
     <title>Document</title>
 </head>
 <body>
@@ -44,7 +48,7 @@
                     <ul id="sidebar-navigation">
                         <li><a href="#">SuccessField Influencers</a></li>
                         <li class="active"><a href="1.html">Companies</a></li>
-                        <li><a href="#">Influencers</a></li>
+                        <li><a href="1-influencers.html">Influencers</a></li>
                     </ul>
                     <hr>
                     <p class="settings">Settings</p>
@@ -57,7 +61,7 @@
                     <p class="text-center">Companies</p>
                 </div>
                 <!--- CONTENT --->
-                <div class="col-md-12 content" style="margin-top: 25px;">
+                <div class="col-md-12 content">
                     <!-- content-menu -->
                     <div class="col-md-12 menu">
                         <ul id="content-menu">
@@ -65,9 +69,9 @@
                             <li class="content-menu-li"><a class="content-menu-a" href="3-users.html">Users</a></li>
                             <li class="content-menu-li"><a class="content-menu-a" href="5-earnings.html">Earnings</a></li>
                             <li class="content-menu-li"><a class="content-menu-a focus" href="7-products.html">Products</a></li>
-                            <li class="content-menu-li"><a class="content-menu-a" href="#">Requests</a></li>
-                            <li class="content-menu-li"><a class="content-menu-a" href="#">Applications</a></li>
-                            <li class="content-menu-li"><a class="content-menu-a" href="#">Influencers</a></li>
+                            <li class="content-menu-li"><a class="content-menu-a" href="12-requests.html">Requests</a></li>
+                            <li class="content-menu-li"><a class="content-menu-a" href="15-applications.html">Applications</a></li>
+                            <li class="content-menu-li"><a class="content-menu-a" href="17-influencers.html">Influencers</a></li>
                             <li class="content-menu-li back" onclick="history.back()"><a class="content-menu-a" href="#">Back to overview</a></li>
                         </ul>
                     </div>
@@ -80,15 +84,115 @@
                         <a href="#">Delete</a>
                     </div>
                     <!-- company -->
-                    <div class="col-md-12 content-main column">
-                        <h4>Product description</h4>
-                        <label for="name" class="test">
-                            Name
-                        </label>
-                        <span id="name">
-                            Downtown
-                        </span>
+                    <div class="col-md-12 content-main">
+                        <div class="col-md-12 column">
+                            <h4 class="label-name">Product description</h4>
+                            <div class="item">
+                                <span class="item-name">Name</span>
+                                <span class="item-value">Downtown CO 2010-2001</span>
+                            </div>
+                            <div class="item">
+                                <span class="item-name">Case</span>
+                                <span class="item-value">Ocatgonal stainless steel case</span>
+                            </div>
+                            <div class="item">
+                                <span class="item-name">Glass</span>
+                                <span class="item-value">Sapphire crystal</span>
+                            </div>
+                            <div class="item">
+                                <span class="item-name">Movement</span>
+                                <span class="item-value">Swiss made Quartz</span>
+                            </div>
+                            <div class="item">
+                                <span class="item-name">Functions</span>
+                                <span class="item-value">Chronograph, Date</span>
+                            </div>
+                            <div class="item">
+                                <span class="item-name">Water resistance</span>
+                                <span class="item-value">Chronograph, Date</span>
+                            </div>
+                            <div class="item">
+                                <span class="item-name">Bezel</span>
+                                <span class="item-value">8 screw bezel</span>
+                            </div>
+                            <div class="item">
+                                <span class="item-name">Dial</span>
+                                <span class="item-value">Black dial with Super LumiNova on indices, hour and minute hands</span>
+                            </div>
+                            <div class="item">
+                                <span class="item-name">Crown</span>
+                                <span class="item-value">Screwed</span>
+                            </div>
+                            <div class="item">
+                                <span class="item-name">Bracelet</span>
+                                <span class="item-value">Black calf leather strap with croco structure</span>
+                            </div>
+                            <div class="item">
+                                <span class="item-name">Case back</span>
+                                <span class="item-value">Screwed case back</span>
+                            </div>
+                            <div class="item">
+                                <span class="item-name">Buckle</span>
+                                <span class="item-value">Signed butterfly buckle with side pusher</span>
+                            </div>
+                            <div class="item">
+                                <span class="item-name">Limited edition</span>
+                                <span class="item-value">600</span>
+                            </div>
+                            <div class="item">
+                                <span class="item-name">Warrantly</span>
+                                <span class="item-value">2 years</span>
+                            </div>
+                            <h4 class="label-name">Prices</h4>
+                            <div class="item">
+                                <span class="item-name">Wholesale price</span>
+                                <span class="item-value">CHF 100.00</span>
+                            </div>
+                            <h4 class="label-name">Shipping</h4>
+                            <div class="item">
+                                <span class="item-name">Shipping area A</span>
+                                <span class="item-value">Switzerlend, Germany, Austria, Liechtenstein</span>
+                            </div>
+                            <div class="item">
+                                <span class="item-name">Costs area A</span>
+                                <span class="item-value">CHF 10.00</span>
+                            </div>
+                            <div class="item">
+                                <span class="item-name">Delivery time area A</span>
+                                <span class="item-value">3-5 days</span>
+                            </div>
+                            <h4 class="label-name">Category & tags</h4>
+                            <div class="item">
+                                <span class="item-name">Category</span>
+                                <span class="item-value">Luxury</span>
+                            </div>
+                            <div class="item">
+                                <span class="item-name">Tags</span>
+                                <span class="item-value">Accessory, Swiss Watch, Fashion</span>
+                            </div>
+                            <h4 class="label-name">Availability</h4>
+                            <div class="item">
+                                <span class="item-name">Shop units</span>
+                                <span class="item-value">50</span>
+                            </div>
+                            <h4 class="label-name">Social Media</h4>
+                            <div class="item">
+                                <span class="item-name">Influencers</span>
+                                <span class="item-value">Chiara Ferragani, Kristian Bazan, Aimee song, Leandra Medine</span>
+                            </div>
+                        </div>
+                        <!-- drag and drop -->
+                        <div class="col-md-12 drag-and-drop">
+                            <h4 class="label-name">Photos</h4>
+                            <form action="/file-upload" class="dropzone" id="my-awesome-dropzone">
 
+                            </form>
+                        </div>
+                        <!--/ drag and drop -->
+                        <div class="col-md-12 buttons text-right">
+                            <button class="cancel-button">Cancel</button>
+                            <button class="create-button">Create</button>
+                        </div>
                     </div>
                     <!--/ company -->
                 </div>
