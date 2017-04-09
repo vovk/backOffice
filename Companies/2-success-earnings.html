@@ -1,0 +1,173 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="style.css">
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <!--Font SFCompactText Regular-->
+    <link href="https://www.fontify.me/wf/bc325006419a7c5afa1e7cdab635d4ac" rel="stylesheet" type="text/css">
+    <!--Font SFCompactText Light-->
+    <link href="https://www.fontify.me/wf/6bec3bcce4b3a9cce868047d9241e28a" rel="stylesheet" type="text/css">
+    <!--Font SFCompactText Bold-->
+    <link href="https://www.fontify.me/wf/c0a9c06d035b581c9693170bc9ba44f8" rel="stylesheet" type="text/css">
+    <!--Font SFCompactText Medium-->
+    <link href="https://www.fontify.me/wf/e5ea205cdfa60018335ee3db6d585197" rel="stylesheet" type="text/css">
+    <!--jQuery-->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="js/content-menu.js"></script>
+    <!--.plot-->
+    <script src="flot/jquery.flot.js"></script>
+    <!--Dropzone.js-->
+    <script src="./path/to/dropzone.js"></script>
+    <title>Document</title>
+</head>
+<body>
+<div class="container-fluid wrapper-page">
+    <div class="row">
+        <div class="col-md-12 all-page">
+            <div class="col-md-2 sidebar">
+                <div class="sidebar-head text-center">
+                    <img src="img/successfield.png" alt="SuccessField">
+                </div>
+                <div class="sidebar-content">
+                    <div class="col-md-12 ava">
+                        <div class="avatar"></div>
+                        <div class="avatar-text">
+                            <p class="name color-text">Selby Webb</p>
+                            <p class="logout"><a href="">Logout</a></p>
+                        </div>
+                    </div>
+                    <hr style="overflow: auto;">
+                    <label class="label-nav color-text" for="sidebar-navigation">ACCOUNTS</label>
+                    <ul id="sidebar-navigation">
+                        <li class="active"><a href="1-success.html">SuccessField Influencers</a></li>
+                        <li><a href="1.html">Companies</a></li>
+                        <li><a href="1-influencers.html">Influencers</a></li>
+                    </ul>
+                    <hr>
+                    <p class="settings">Settings</p>
+                </div>
+            </div>
+            <div class="col-md-10 main">
+                <div class="header">
+                    <div class="glyphicon glyphicon-menu-hamburger menu-icon">
+                    </div>
+                    <p class="text-center">Companies</p>
+                </div>
+                <!--- CONTENT --->
+                <div class="col-md-12 content">
+                    <!-- content-menu -->
+                    <div class="col-md-12 menu">
+                        <ul id="content-menu">
+                            <li class="content-menu-li"><a class="content-menu-a" href="">Users</a></li>
+                            <li class="content-menu-li"><a class="content-menu-a focus" href="">Earnings</a></li>
+                            <li class="content-menu-li"><a class="content-menu-a" href="">Products</a></li>
+                            <li class="content-menu-li"><a class="content-menu-a" href="">Referalls</a></li>
+                            <!--<li class="content-menu-li back"><a class="content-menu-a" href="1-influencers.html">Back to influencer</a></li>-->
+                        </ul>
+                    </div>
+                    <!--/ content-menu -->
+                    <div class="col-md-6 content-title">
+                        <h2>Earnings</h2>
+                    </div>
+                    <div class="col-md-12 select-date">
+                        <div class="col-md-6">
+                            <select name="date" id="date">
+                                <option value="">1. - 7 June 2016</option>
+                                <option value="">2. - 7 June 2016</option>
+                                <option value="">3. - 7 June 2016</option>
+                                <option value="">4. - 7 June 2016</option>
+                                <option value="">5. - 7 June 2016</option>
+                                <option value="">6. - 7 June 2016</option>
+                                <option value="">7. - 7 June 2016</option>
+                            </select>
+                        </div>
+                        <div class="col-md-6 add-col text-right">
+                            <!--<a href="#">Monthly view</a>-->
+                            <!--<a href="#">Weekly view</a>-->
+                            <!--<a href="#">Daily view</a>-->
+                        </div>
+                    </div>
+
+                    <div class="col-md-12">
+                        <section class="wrapper">
+                            <ul class="tabs">
+                                <li><a href="#tab1">Monthly view</a></li>
+                                <li><a href="#tab2">Weeks view</a></li>
+                                <li><a href="#tab3">Daily view</a></li>
+                            </ul>
+                            <div class="clr"></div>
+                            <section class="block">
+                                <article id="tab1">
+                                    <div class="col-md-12 graphic">
+                                        <div id="placeholder-1" style="width:100%;height:500px"></div>
+                                    </div>
+                                </article>
+                                <article id="tab2">
+                                    <div class="col-md-12 graphic">
+                                        <div id="placeholder-2" style="width:100%;height:500px"></div>
+                                    </div>
+                                </article>
+                                <article id="tab3">
+                                    <div class="col-md-12 graphic">
+                                        <div id="placeholder-3" style="width:100%;height:500px"></div>
+                                    </div>
+                                </article>
+                            </section>
+                        </section>
+                    </div>
+                    <script>
+                        $(function(){
+                            $('ul.tabs li:first').addClass('active');
+                            $('.block article').hide();
+                            $('.block article:first').show();
+                            $('ul.tabs li').on('click',function(){
+                                $('ul.tabs li').removeClass('active');
+                                $(this).addClass('active')
+                                $('.block article').hide();
+                                var activeTab = $(this).find('a').attr('href');
+                                $(activeTab).show();
+                                return false;
+                            });
+                        })
+                    </script>
+                    <div class="col-md-12">
+                        <table class="table table-bordered table-responsive earnings-table">
+                            <thead>
+                            <tr>
+                                <th>Period</th>
+                                <th>Total earnings</th>
+                                <th>Total sales</th>
+                            </tr>
+                            </thead>
+                            <tbody>
+                            <tr>
+                                <td><a href="">1. - 7.June 2016</a></td>
+                                <td><a href="">$ 3047.56</a></td>
+                                <td><a href="">236</a></td>
+                            </tr>
+                            <tr>
+                                <td><a href="">2. - 7.June 2016</a></td>
+                                <td><a href="">$ 3047.56</a></td>
+                                <td><a href="">236</a></td>
+                            </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    <!---/ CONTENT --->
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+</body>
+</html>
