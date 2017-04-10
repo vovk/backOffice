@@ -21,6 +21,10 @@
     <script src="js/content-menu.js"></script>
     <!--.plot-->
     <script src="flot/jquery.flot.js"></script>
+    <!--Dropzone.js-->
+    <script src="dropzone-4.3.0/dist/dropzone.js"></script>
+    <!--Tabs-->
+    <script src="js/tabs.js"></script>
     <title>Document</title>
 </head>
 <body>
@@ -43,10 +47,10 @@
                     <label class="label-nav color-text" for="sidebar-navigation">ACCOUNTS</label>
                     <ul id="sidebar-navigation">
                         <li><a href="1-success.html">SuccessField Influencers</a></li>
-                        <li class="active"><a href="1.html">Companies</a></li>
+                        <li><a href="1.html">Companies</a></li>
                         <li><a href="1-influencers.html">Influencers</a></li>
                         <hr>
-                        <li><a href="settings.html">Settings</a></li>
+                        <li class="active"><a href="settings.html">Settings</a></li>
                     </ul>
                 </div>
             </div>
@@ -54,73 +58,38 @@
                 <div class="header">
                     <div class="glyphicon glyphicon-menu-hamburger menu-icon">
                     </div>
-                    <p class="text-center">Companies</p>
+                    <p class="text-center">Settings</p>
                 </div>
                 <!--- CONTENT --->
                 <div class="col-md-12 content">
                     <!-- content-menu -->
                     <div class="col-md-12 menu">
                         <ul id="content-menu">
-                            <li class="content-menu-li"><a class="content-menu-a" href="2-company.html">Company</a></li>
-                            <li class="content-menu-li"><a class="content-menu-a" href="3-users.html">Users</a></li>
-                            <li class="content-menu-li"><a class="content-menu-a focus" href="5-earnings.html">Earnings</a></li>
-                            <li class="content-menu-li"><a class="content-menu-a" href="7-products.html">Products</a></li>
-                            <li class="content-menu-li"><a class="content-menu-a" href="12-requests.html">Requests</a></li>
-                            <li class="content-menu-li"><a class="content-menu-a" href="15-applications.html">Applications</a></li>
-                            <li class="content-menu-li"><a class="content-menu-a" href="17-influencers.html">Influencers</a></li>
-                            <li class="content-menu-li back"><a class="content-menu-a" href="5-earnings.html">Back to earnings</a></li>
+                            <li class="content-menu-li"><a class="content-menu-a" href="settings.html">System settings</a></li>
+                            <li class="content-menu-li"><a class="content-menu-a focus" href="settings-organisation.html">Organisation</a></li>
                         </ul>
                     </div>
                     <!--/ content-menu -->
                     <div class="col-md-6 content-title">
-                        <h2>Sales</h2>
+                        <h2>Organization</h2>
                     </div>
-                    <table class="table table-responsive table-sales">
-                        <thead>
-                        <tr>
-                            <th>Period</th>
-                            <th>Earnings</th>
-                            <th>Sales</th>
-                        </tr>
-                        </thead>
-                        <tbody>
-                        <tr>
-                            <td>1. June 2016</td>
-                            <td>$ 503.50</td>
-                            <td><a href="#">22</a></td>
-                        </tr>
-                        <tr>
-                            <td>2. June 2016</td>
-                            <td>$ 1,353.50</td>
-                            <td><a href="">37</a></td>
-                        </tr>
-                        <tr>
-                            <td>3. June 2016</td>
-                            <td>$ 503.50</td>
-                            <td><a href="">22</a></td>
-                        </tr>
-                        <tr>
-                            <td>4. June 2016</td>
-                            <td>$ 1,353.50</td>
-                            <td><a href="">37</a></td>
-                        </tr>
-                        <tr>
-                            <td>5. June 2016</td>
-                            <td>$ 503.50</td>
-                            <td><a href="">22</a></td>
-                        </tr>
-                        <tr>
-                            <td>6. June 2016</td>
-                            <td>$ 1,353.50</td>
-                            <td><a href="">37</a></td>
-                        </tr>
-                        <tr>
-                            <td>7. June 2016</td>
-                            <td>$ 503.50</td>
-                            <td><a href="">22</a></td>
-                        </tr>
-                        </tbody>
-                    </table>
+                    <div class="col-md-6 add-col">
+                        <a href="#">Edit</a>
+                    </div>
+                    <div class="col-md-12 content-main">
+                        <p class="col-md-12 label-name">Company's logo</p>
+                        <div class="col-md-12 label-value">
+                            <div class="col-md-2 text-center sidebar-head">
+                                <img src="img/successfield.png" alt="SuccessField">
+                            </div>
+                        </div>
+                        <div class="col-md-12" style="height: 50px; width: 100%;"></div>
+
+                        <p class="col-md-12 label-name">Import/Export company‘s users</p>
+                        <p class="col-md-12 label-value">
+                            <button class="import">Import</button> <span class="split">/</span> <button class="export">Export</button>
+                        </p>
+                    </div>
                 </div>
                 <!---/ CONTENT --->
             </div>

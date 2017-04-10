@@ -2,185 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e37bac5-5195-41ca-af3c-2b887065df18" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/1-influencers.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/1-success.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/11-influencers-referrals.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/12-requests.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/13-request.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/15-applications.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/17-influencers.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/18-influencer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/2-company.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/2-influencers-influencer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/2-success-earnings.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/3-users.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/4-influencers-earnings.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/4-user.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/5-earnings.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/5-influencers-sales.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/6-influencers-products.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/6-sales.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/7-products.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/8-product.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/css/bootstrap-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/css/bootstrap-theme.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/css/bootstrap-theme.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/css/bootstrap-theme.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/css/bootstrap.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/css/bootstrap.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/dropzone-4.3.0/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/dropzone-4.3.0/.tagconfig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/dropzone-4.3.0/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/dropzone-4.3.0/AMD_footer" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/dropzone-4.3.0/AMD_header" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/dropzone-4.3.0/CONTRIBUTING.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/dropzone-4.3.0/Gruntfile.coffee" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/dropzone-4.3.0/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/dropzone-4.3.0/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/dropzone-4.3.0/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/dropzone-4.3.0/component.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/dropzone-4.3.0/composer.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/dropzone-4.3.0/dist/basic.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/dropzone-4.3.0/dist/dropzone-amd-module.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/dropzone-4.3.0/dist/dropzone.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/dropzone-4.3.0/dist/dropzone.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/dropzone-4.3.0/dist/min/basic.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/dropzone-4.3.0/dist/min/dropzone-amd-module.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/dropzone-4.3.0/dist/min/dropzone.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/dropzone-4.3.0/dist/min/dropzone.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/dropzone-4.3.0/dist/readme.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/dropzone-4.3.0/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/dropzone-4.3.0/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/dropzone-4.3.0/src/basic.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/dropzone-4.3.0/src/dropzone.coffee" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/dropzone-4.3.0/src/dropzone.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/dropzone-4.3.0/test.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/dropzone-4.3.0/test/test.coffee" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/dropzone-4.3.0/test/test.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/dropzone-4.3.0/test/test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/API.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/CONTRIBUTING.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/FAQ.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/Makefile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/NEWS.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/PLUGINS.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/component.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/examples/ajax/data-eu-gdp-growth-1.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/examples/ajax/data-eu-gdp-growth-2.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/examples/ajax/data-eu-gdp-growth-3.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/examples/ajax/data-eu-gdp-growth-4.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/examples/ajax/data-eu-gdp-growth-5.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/examples/ajax/data-eu-gdp-growth.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/examples/ajax/data-japan-gdp-growth.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/examples/ajax/data-usa-gdp-growth.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/examples/ajax/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/examples/annotating/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/examples/axes-interacting/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/examples/axes-multiple/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/examples/axes-time-zones/date.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/examples/axes-time-zones/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/examples/axes-time-zones/tz/africa" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/examples/axes-time-zones/tz/antarctica" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/examples/axes-time-zones/tz/asia" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/examples/axes-time-zones/tz/australasia" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/examples/axes-time-zones/tz/backward" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/examples/axes-time-zones/tz/etcetera" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/examples/axes-time-zones/tz/europe" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/examples/axes-time-zones/tz/factory" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/examples/axes-time-zones/tz/iso3166.tab" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/examples/axes-time-zones/tz/leapseconds" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/examples/axes-time-zones/tz/northamerica" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/examples/axes-time-zones/tz/pacificnew" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/examples/axes-time-zones/tz/solar87" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/examples/axes-time-zones/tz/solar88" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/examples/axes-time-zones/tz/solar89" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/examples/axes-time-zones/tz/southamerica" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/examples/axes-time-zones/tz/systemv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/examples/axes-time-zones/tz/yearistype.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/examples/axes-time-zones/tz/zone.tab" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/examples/axes-time/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/examples/background.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/examples/basic-options/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/examples/basic-usage/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/examples/canvas/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/examples/categories/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/examples/examples.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/examples/image/hs-2004-27-a-large-web.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/examples/image/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/examples/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/examples/interacting/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/examples/navigate/arrow-down.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/examples/navigate/arrow-left.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/examples/navigate/arrow-right.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/examples/navigate/arrow-up.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/examples/navigate/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/examples/percentiles/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/examples/realtime/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/examples/resize/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/examples/selection/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/examples/series-errorbars/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/examples/series-pie/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/examples/series-toggle/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/examples/series-types/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/examples/shared/jquery-ui/jquery-ui.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/examples/stacking/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/examples/symbols/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/examples/threshold/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/examples/tracking/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/examples/visitors/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/examples/zooming/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/excanvas.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/excanvas.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/flot.jquery.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/jquery.colorhelpers.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/jquery.flot.canvas.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/jquery.flot.categories.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/jquery.flot.crosshair.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/jquery.flot.errorbars.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/jquery.flot.fillbetween.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/jquery.flot.image.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/jquery.flot.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/jquery.flot.navigate.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/jquery.flot.pie.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/jquery.flot.resize.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/jquery.flot.selection.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/jquery.flot.stack.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/jquery.flot.symbol.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/jquery.flot.threshold.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/jquery.flot.time.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/flot/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/fonts/sfcompacttext/example.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/fonts/sfcompacttext/sf-compact-text-heavy-58646f645b774.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/fonts/sfcompacttext/sf-compact-text-italic-58646f7cbab10.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/fonts/sfcompacttext/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/img/avatar.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/img/dd.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/img/fb.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/img/instagram.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/img/kolokol.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/img/successfield.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/img/twitter.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/img/youtube.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/js/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/js/content-menu.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/js/dropzone.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/js/npm.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Companies/style.css" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1-influencers.html" afterPath="$PROJECT_DIR$/1-influencers.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1-success.html" afterPath="$PROJECT_DIR$/1-success.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1.html" afterPath="$PROJECT_DIR$/1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/11-influencers-referrals.html" afterPath="$PROJECT_DIR$/11-influencers-referrals.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/12-requests.html" afterPath="$PROJECT_DIR$/12-requests.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/13-request.html" afterPath="$PROJECT_DIR$/13-request.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/15-applications.html" afterPath="$PROJECT_DIR$/15-applications.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/17-influencers.html" afterPath="$PROJECT_DIR$/17-influencers.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/18-influencer.html" afterPath="$PROJECT_DIR$/18-influencer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2-company.html" afterPath="$PROJECT_DIR$/2-company.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2-influencers-influencer.html" afterPath="$PROJECT_DIR$/2-influencers-influencer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2-success-earnings.html" afterPath="$PROJECT_DIR$/2-success-earnings.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3-success-products.html" afterPath="$PROJECT_DIR$/3-success-products.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3-users.html" afterPath="$PROJECT_DIR$/3-users.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/4-influencers-earnings.html" afterPath="$PROJECT_DIR$/4-influencers-earnings.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/4-user.html" afterPath="$PROJECT_DIR$/4-user.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/5-earnings.html" afterPath="$PROJECT_DIR$/5-earnings.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/5-influencers-sales.html" afterPath="$PROJECT_DIR$/5-influencers-sales.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/6-influencers-products.html" afterPath="$PROJECT_DIR$/6-influencers-products.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/6-sales.html" afterPath="$PROJECT_DIR$/6-sales.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/7-products.html" afterPath="$PROJECT_DIR$/7-products.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/8-product.html" afterPath="$PROJECT_DIR$/8-product.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
     </list>
     <ignored path="BackOffice.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -200,7 +44,58 @@
     <favorites_list name="BackOffice" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="2-success-earnings.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2-success-earnings.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="265">
+              <caret line="60" column="66" lean-forward="false" selection-start-line="60" selection-start-column="66" selection-end-line="60" selection-end-column="66" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1-influencers.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/1-influencers.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="49" column="25" lean-forward="true" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1-success.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1-success.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="60" column="70" lean-forward="true" selection-start-line="60" selection-start-column="70" selection-end-line="60" selection-end-column="70" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="3-success-products.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3-success-products.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="782">
+              <caret line="60" column="66" lean-forward="false" selection-start-line="60" selection-start-column="66" selection-end-line="60" selection-end-column="66" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="799">
+              <caret line="506" column="30" lean-forward="false" selection-start-line="506" selection-start-column="30" selection-end-line="506" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -212,15 +107,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>produc</find>
-      <find>drag</find>
-      <find>butt</find>
-      <find>1.</find>
-      <find>span</find>
-      <find>overview</find>
-      <find>margin-right</find>
-      <find>total</find>
-      <find>inf</find>
       <find>influencers</find>
       <find>user</find>
       <find>iban</find>
@@ -236,12 +122,21 @@
       <find>data-target</find>
       <find>sales</find>
       <find>table-sales</find>
-      <find>active</find>
       <find>create</find>
       <find>1-</find>
       <find>companies</find>
       <find>back</find>
       <find>tabs</find>
+      <find>crea</find>
+      <find>users</find>
+      <find>ava</find>
+      <find>avatar</find>
+      <find>active</find>
+      <find>succ</find>
+      <find>content-menu</find>
+      <find>menu</find>
+      <find>influ</find>
+      <find>influencer</find>
     </findStrings>
     <dirStrings>
       <dir>D:\OpenServer\domains\backOffice\Companies\dropzone-4.3.0</dir>
@@ -253,16 +148,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Companies/js/drag-and-drop.js" />
-        <option value="$PROJECT_DIR$/Companies/applications.html" />
-        <option value="$PROJECT_DIR$/Companies/16-application.html" />
-        <option value="$PROJECT_DIR$/Companies/16-influencers.html" />
-        <option value="$PROJECT_DIR$/Companies/js/dropzone.js" />
-        <option value="$PROJECT_DIR$/Companies/dropzone-4.3.0/dist/dropzone.js" />
-        <option value="$PROJECT_DIR$/Companies/js/content-menu.js" />
-        <option value="$PROJECT_DIR$/Companies/influencers.html" />
-        <option value="$PROJECT_DIR$/Companies/3-influencers-earning.html" />
-        <option value="$PROJECT_DIR$/Companies/4-influencers-earning.html" />
         <option value="$PROJECT_DIR$/Companies/7-influencers-products.html" />
         <option value="$PROJECT_DIR$/Companies/2-company.html" />
         <option value="$PROJECT_DIR$/Companies/3-users.html" />
@@ -289,6 +174,31 @@
         <option value="$PROJECT_DIR$/Companies/4-influencers-earnings.html" />
         <option value="$PROJECT_DIR$/Companies/5-earnings.html" />
         <option value="$PROJECT_DIR$/Companies/3-success-products.html" />
+        <option value="$PROJECT_DIR$/2-company.html" />
+        <option value="$PROJECT_DIR$/3-users.html" />
+        <option value="$PROJECT_DIR$/1.html" />
+        <option value="$PROJECT_DIR$/4-user.html" />
+        <option value="$PROJECT_DIR$/5-earnings.html" />
+        <option value="$PROJECT_DIR$/6-sales.html" />
+        <option value="$PROJECT_DIR$/7-products.html" />
+        <option value="$PROJECT_DIR$/8-product.html" />
+        <option value="$PROJECT_DIR$/12-requests.html" />
+        <option value="$PROJECT_DIR$/13-request.html" />
+        <option value="$PROJECT_DIR$/15-applications.html" />
+        <option value="$PROJECT_DIR$/17-influencers.html" />
+        <option value="$PROJECT_DIR$/18-influencer.html" />
+        <option value="$PROJECT_DIR$/2-influencers-influencer.html" />
+        <option value="$PROJECT_DIR$/5-influencers-sales.html" />
+        <option value="$PROJECT_DIR$/6-influencers-products.html" />
+        <option value="$PROJECT_DIR$/4-influencers-earnings.html" />
+        <option value="$PROJECT_DIR$/11-influencers-referrals.html" />
+        <option value="$PROJECT_DIR$/style.css" />
+        <option value="$PROJECT_DIR$/settings.html" />
+        <option value="$PROJECT_DIR$/settings-organisation.html" />
+        <option value="$PROJECT_DIR$/1-success.html" />
+        <option value="$PROJECT_DIR$/3-success-products.html" />
+        <option value="$PROJECT_DIR$/2-success-earnings.html" />
+        <option value="$PROJECT_DIR$/1-influencers.html" />
       </list>
     </option>
   </component>
@@ -449,17 +359,18 @@
       <workItem from="1491462213694" duration="14044000" />
       <workItem from="1491735919625" duration="3565000" />
       <workItem from="1491745749032" duration="241000" />
-      <workItem from="1491807975557" duration="64000" />
+      <workItem from="1491807975557" duration="7541000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="129767000" />
+    <option name="totallyTimeSpent" value="137244000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2984375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2984375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -515,31 +426,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Companies/8-product.html" />
-    <entry file="file://$PROJECT_DIR$/Companies/style.css" />
-    <entry file="file://$PROJECT_DIR$/Companies/1.html" />
-    <entry file="file://$PROJECT_DIR$/Companies/2-company.html" />
-    <entry file="file://$PROJECT_DIR$/Companies/3-users.html" />
-    <entry file="file://$PROJECT_DIR$/Companies/4-user.html" />
-    <entry file="file://$PROJECT_DIR$/Companies/5-earnings.html" />
-    <entry file="file://$PROJECT_DIR$/Companies/6-sales.html" />
-    <entry file="file://$PROJECT_DIR$/Companies/7-products.html" />
-    <entry file="file://$PROJECT_DIR$/Companies/8-product.html" />
-    <entry file="file://$PROJECT_DIR$/Companies/style.css" />
-    <entry file="file://$PROJECT_DIR$/Companies/1.html" />
-    <entry file="file://$PROJECT_DIR$/Companies/style.css" />
-    <entry file="file://$PROJECT_DIR$/Companies/1.html" />
-    <entry file="file://$PROJECT_DIR$/Companies/style.css" />
-    <entry file="file://$PROJECT_DIR$/Companies/1.html" />
-    <entry file="file://$PROJECT_DIR$/Companies/style.css" />
-    <entry file="file://$PROJECT_DIR$/Companies/applications.html" />
-    <entry file="file://$PROJECT_DIR$/Companies/16-application.html" />
-    <entry file="file://$PROJECT_DIR$/Companies/js/drag-and-drop.js" />
-    <entry file="file://$PROJECT_DIR$/Companies/16-influencers.html" />
-    <entry file="file://$PROJECT_DIR$/Companies/js/dropzone.js" />
-    <entry file="file://$PROJECT_DIR$/Companies/dropzone-4.3.0/src/dropzone.coffee" />
-    <entry file="file://$PROJECT_DIR$/Companies/dropzone-4.3.0/dist/dropzone-amd-module.js" />
-    <entry file="file://$PROJECT_DIR$/Companies/js/content-menu.js" />
     <entry file="file://$PROJECT_DIR$/Companies/dropzone-4.3.0/dist/dropzone.js" />
     <entry file="file://$PROJECT_DIR$/Companies/7-influencers-products.html" />
     <entry file="file://$PROJECT_DIR$/Companies/2-company.html" />
@@ -566,5 +452,210 @@
     <entry file="file://$PROJECT_DIR$/Companies/3-success-products.html" />
     <entry file="file://$PROJECT_DIR$/Companies/5-earnings.html" />
     <entry file="file://$PROJECT_DIR$/Companies/4-influencers-earnings.html" />
+    <entry file="file://$PROJECT_DIR$/5-earnings.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="49" column="78" lean-forward="false" selection-start-line="49" selection-start-column="78" selection-end-line="49" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4-user.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="44" column="24" lean-forward="false" selection-start-line="44" selection-start-column="24" selection-end-line="45" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6-sales.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="45" column="78" lean-forward="false" selection-start-line="45" selection-start-column="78" selection-end-line="45" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12-requests.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="45" column="78" lean-forward="false" selection-start-line="45" selection-start-column="78" selection-end-line="45" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13-request.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="49" column="78" lean-forward="false" selection-start-line="49" selection-start-column="78" selection-end-line="49" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15-applications.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="45" column="78" lean-forward="false" selection-start-line="45" selection-start-column="78" selection-end-line="45" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17-influencers.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="45" column="78" lean-forward="false" selection-start-line="45" selection-start-column="78" selection-end-line="45" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/18-influencer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="45" column="78" lean-forward="false" selection-start-line="45" selection-start-column="78" selection-end-line="45" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2-influencers-influencer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="46" column="92" lean-forward="false" selection-start-line="46" selection-start-column="92" selection-end-line="46" selection-end-column="92" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5-influencers-sales.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="46" column="92" lean-forward="false" selection-start-line="46" selection-start-column="92" selection-end-line="46" selection-end-column="92" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6-influencers-products.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="46" column="92" lean-forward="false" selection-start-line="46" selection-start-column="92" selection-end-line="46" selection-end-column="92" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11-influencers-referrals.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="46" column="92" lean-forward="false" selection-start-line="46" selection-start-column="92" selection-end-line="46" selection-end-column="92" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4-influencers-earnings.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="50" column="92" lean-forward="false" selection-start-line="50" selection-start-column="92" selection-end-line="50" selection-end-column="92" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3-users.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="49" column="25" lean-forward="false" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8-product.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="96" column="34" lean-forward="true" selection-start-line="87" selection-start-column="24" selection-end-line="96" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7-products.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-62">
+          <caret line="45" column="78" lean-forward="false" selection-start-line="45" selection-start-column="78" selection-end-line="45" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2-company.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="83" column="50" lean-forward="false" selection-start-line="83" selection-start-column="50" selection-end-line="83" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="45" column="46" lean-forward="false" selection-start-line="45" selection-start-column="46" selection-end-line="45" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="506" column="30" lean-forward="false" selection-start-line="506" selection-start-column="30" selection-end-line="506" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="60" column="51" lean-forward="false" selection-start-line="60" selection-start-column="43" selection-end-line="60" selection-end-column="51" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#3;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#3;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings-organisation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="60" column="51" lean-forward="false" selection-start-line="60" selection-start-column="51" selection-end-line="60" selection-end-column="51" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#3;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1-success.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="60" column="70" lean-forward="true" selection-start-line="60" selection-start-column="70" selection-end-line="60" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3-success-products.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="60" column="66" lean-forward="false" selection-start-line="60" selection-start-column="66" selection-end-line="60" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2-success-earnings.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="60" column="66" lean-forward="false" selection-start-line="60" selection-start-column="66" selection-end-line="60" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1-influencers.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="49" column="25" lean-forward="true" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>

@@ -482,9 +482,27 @@ table.table tr{
         padding: 0 1em;
     }
 /*11-influencers-referrals.html*/
-    p.gen_stats{
+    p.gen_stats {
         color: #38DA25;
         position: absolute;
         left: 120px;
         top: 7px;
+    }
+/*settings.html*/
+    .ava-settings{
+        width: 100px!important;
+        height: 100px!important;
+    }
+    .ava-settings img{
+        width: 100px;
+        height: 100%;
+    }
+    .import, .export{
+        color: #3277E3;
+        background: none;
+        border: none;
+        padding: 0;
+    }
+    .split{
+        padding: 0 10px 0 10px;
     }
