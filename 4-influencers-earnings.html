@@ -22,7 +22,9 @@
     <!--.plot-->
     <script src="flot/jquery.flot.js"></script>
     <!--Dropzone.js-->
-    <script src="./path/to/dropzone.js"></script>
+    <script src="dropzone-4.3.0/dist/dropzone.js"></script>
+    <!--Tabs-->
+    <script src="js/tabs.js"></script>
     <title>Document</title>
 </head>
 <body>
@@ -120,21 +122,6 @@
                             </section>
                         </section>
                     </div>
-                    <script>
-                        $(function(){
-                            $('ul.tabs li:first').addClass('active');
-                            $('.block article').hide();
-                            $('.block article:first').show();
-                            $('ul.tabs li').on('click',function(){
-                                $('ul.tabs li').removeClass('active');
-                                $(this).addClass('active')
-                                $('.block article').hide();
-                                var activeTab = $(this).find('a').attr('href');
-                                $(activeTab).show();
-                                return false;
-                            });
-                        })
-                    </script>
                     <div class="col-md-12">
                         <table class="table table-bordered table-responsive earnings-table">
                             <thead>
