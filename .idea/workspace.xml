@@ -2,29 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e37bac5-5195-41ca-af3c-2b887065df18" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1-influencers.html" afterPath="$PROJECT_DIR$/1-influencers.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1-success.html" afterPath="$PROJECT_DIR$/1-success.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1.html" afterPath="$PROJECT_DIR$/1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/11-influencers-referrals.html" afterPath="$PROJECT_DIR$/11-influencers-referrals.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/12-requests.html" afterPath="$PROJECT_DIR$/12-requests.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/13-request.html" afterPath="$PROJECT_DIR$/13-request.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/15-applications.html" afterPath="$PROJECT_DIR$/15-applications.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/17-influencers.html" afterPath="$PROJECT_DIR$/17-influencers.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/18-influencer.html" afterPath="$PROJECT_DIR$/18-influencer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2-company.html" afterPath="$PROJECT_DIR$/2-company.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2-influencers-influencer.html" afterPath="$PROJECT_DIR$/2-influencers-influencer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2-success-earnings.html" afterPath="$PROJECT_DIR$/2-success-earnings.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3-success-products.html" afterPath="$PROJECT_DIR$/3-success-products.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3-users.html" afterPath="$PROJECT_DIR$/3-users.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/4-influencers-earnings.html" afterPath="$PROJECT_DIR$/4-influencers-earnings.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/4-user.html" afterPath="$PROJECT_DIR$/4-user.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/5-earnings.html" afterPath="$PROJECT_DIR$/5-earnings.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/5-influencers-sales.html" afterPath="$PROJECT_DIR$/5-influencers-sales.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/6-influencers-products.html" afterPath="$PROJECT_DIR$/6-influencers-products.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/6-sales.html" afterPath="$PROJECT_DIR$/6-sales.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/7-products.html" afterPath="$PROJECT_DIR$/7-products.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/8-product.html" afterPath="$PROJECT_DIR$/8-product.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
     </list>
     <ignored path="BackOffice.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -55,11 +33,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="1-influencers.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="1-influencers.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1-influencers.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
               <caret line="49" column="25" lean-forward="true" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="3-users.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/3-users.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="45" column="42" lean-forward="false" selection-start-line="45" selection-start-column="42" selection-end-line="45" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -107,7 +95,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>influencers</find>
       <find>user</find>
       <find>iban</find>
       <find>User</find>
@@ -137,6 +124,7 @@
       <find>menu</find>
       <find>influ</find>
       <find>influencer</find>
+      <find>sett</find>
     </findStrings>
     <dirStrings>
       <dir>D:\OpenServer\domains\backOffice\Companies\dropzone-4.3.0</dir>
@@ -175,7 +163,6 @@
         <option value="$PROJECT_DIR$/Companies/5-earnings.html" />
         <option value="$PROJECT_DIR$/Companies/3-success-products.html" />
         <option value="$PROJECT_DIR$/2-company.html" />
-        <option value="$PROJECT_DIR$/3-users.html" />
         <option value="$PROJECT_DIR$/1.html" />
         <option value="$PROJECT_DIR$/4-user.html" />
         <option value="$PROJECT_DIR$/5-earnings.html" />
@@ -199,6 +186,7 @@
         <option value="$PROJECT_DIR$/3-success-products.html" />
         <option value="$PROJECT_DIR$/2-success-earnings.html" />
         <option value="$PROJECT_DIR$/1-influencers.html" />
+        <option value="$PROJECT_DIR$/3-users.html" />
       </list>
     </option>
   </component>
@@ -359,12 +347,12 @@
       <workItem from="1491462213694" duration="14044000" />
       <workItem from="1491735919625" duration="3565000" />
       <workItem from="1491745749032" duration="241000" />
-      <workItem from="1491807975557" duration="7541000" />
+      <workItem from="1491807975557" duration="8158000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="137244000" />
+    <option name="totallyTimeSpent" value="137861000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -556,14 +544,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3-users.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="49" column="25" lean-forward="false" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/8-product.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -653,6 +633,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="49" column="25" lean-forward="true" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3-users.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="45" column="42" lean-forward="false" selection-start-line="45" selection-start-column="42" selection-end-line="45" selection-end-column="42" />
           <folding />
         </state>
       </provider>
