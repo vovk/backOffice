@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e37bac5-5195-41ca-af3c-2b887065df18" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3-users.html" afterPath="$PROJECT_DIR$/3-users.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/settings-organisation.html" afterPath="$PROJECT_DIR$/settings-organisation.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
     </list>
     <ignored path="BackOffice.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -43,12 +44,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="3-users.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="3-users.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/3-users.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
               <caret line="45" column="42" lean-forward="false" selection-start-line="45" selection-start-column="42" selection-end-line="45" selection-end-column="42" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings-organisation.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/settings-organisation.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="81" column="75" lean-forward="false" selection-start-line="81" selection-start-column="75" selection-end-line="81" selection-end-column="75" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#3;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -73,11 +86,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="799">
-              <caret line="506" column="30" lean-forward="false" selection-start-line="506" selection-start-column="30" selection-end-line="506" selection-end-column="30" />
+            <state relative-caret-position="357">
+              <caret line="483" column="33" lean-forward="true" selection-start-line="483" selection-start-column="33" selection-end-line="483" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -118,13 +131,13 @@
       <find>users</find>
       <find>ava</find>
       <find>avatar</find>
-      <find>active</find>
       <find>succ</find>
       <find>content-menu</find>
       <find>menu</find>
       <find>influ</find>
       <find>influencer</find>
       <find>sett</find>
+      <find>active</find>
     </findStrings>
     <dirStrings>
       <dir>D:\OpenServer\domains\backOffice\Companies\dropzone-4.3.0</dir>
@@ -179,14 +192,14 @@
         <option value="$PROJECT_DIR$/6-influencers-products.html" />
         <option value="$PROJECT_DIR$/4-influencers-earnings.html" />
         <option value="$PROJECT_DIR$/11-influencers-referrals.html" />
-        <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/settings.html" />
-        <option value="$PROJECT_DIR$/settings-organisation.html" />
         <option value="$PROJECT_DIR$/1-success.html" />
         <option value="$PROJECT_DIR$/3-success-products.html" />
         <option value="$PROJECT_DIR$/2-success-earnings.html" />
         <option value="$PROJECT_DIR$/1-influencers.html" />
         <option value="$PROJECT_DIR$/3-users.html" />
+        <option value="$PROJECT_DIR$/settings-organisation.html" />
+        <option value="$PROJECT_DIR$/style.css" />
       </list>
     </option>
   </component>
@@ -347,18 +360,17 @@
       <workItem from="1491462213694" duration="14044000" />
       <workItem from="1491735919625" duration="3565000" />
       <workItem from="1491745749032" duration="241000" />
-      <workItem from="1491807975557" duration="8158000" />
+      <workItem from="1491807975557" duration="9557000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="137861000" />
+    <option name="totallyTimeSpent" value="139260000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2984375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2984375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -576,30 +588,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="799">
-          <caret line="506" column="30" lean-forward="false" selection-start-line="506" selection-start-column="30" selection-end-line="506" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/settings.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
           <caret line="60" column="51" lean-forward="false" selection-start-line="60" selection-start-column="43" selection-end-line="60" selection-end-column="51" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#3;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#3;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/settings-organisation.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="60" column="51" lean-forward="false" selection-start-line="60" selection-start-column="51" selection-end-line="60" selection-end-column="51" />
-          <folding>
             <element signature="n#style#0;n#div#1;n#div#3;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
@@ -641,6 +635,24 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="45" column="42" lean-forward="false" selection-start-line="45" selection-start-column="42" selection-end-line="45" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings-organisation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="81" column="75" lean-forward="false" selection-start-line="81" selection-start-column="75" selection-end-line="81" selection-end-column="75" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#3;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="483" column="33" lean-forward="true" selection-start-line="483" selection-start-column="33" selection-end-line="483" selection-end-column="33" />
           <folding />
         </state>
       </provider>

@@ -506,3 +506,7 @@ table.table tr{
     .split{
         padding: 0 10px 0 10px;
     }
+    .logotip{
+        background: red;
+        padding: 20px 60px;
+    }
