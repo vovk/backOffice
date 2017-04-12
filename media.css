@@ -1,0 +1,141 @@
+@media screen and (max-width: 1400px){
+    h2{
+        font-size: 25px!important;
+    }
+    .ava{
+        padding-right: 0!important;
+    }
+    .avatar{
+        background-position: -55px -50px;
+        height: 75px;
+        width: 75px;
+    }
+    .avatar-text{
+        height: auto;
+        margin-left: 15px;
+    }
+    .name{
+        margin-top: 12.5px;
+        font-size: 12pt;
+    }
+    .logout{
+        font-size: 11pt;
+    }
+    .add-col{
+        padding-right: 0!important;
+    }
+    .sidebar-content label.label-nav{
+        margin-bottom: 0;
+    }
+    ul#content-menu li{
+        margin: 0 2% 0px 2%;
+        width: auto!important;
+    }
+    .back{
+        margin: 0!important;
+        width: auto!important;
+    }
+    /*2-company.html*/
+    .content-main .label-value, .content-main .label-name{
+        font-size: 9pt;
+    }
+    /*8-product.html*/
+    .column{
+        column-gap: 30px;
+        -moz-column-gap: 30px;
+        -webkit-column-gap: 30px;
+    }
+    .item{
+        line-height: 2;
+    }
+    .item-name{
+        display: inline;
+        font-size: 9pt;
+        width: 120px;
+    }
+    .item-value{
+        display: inline-block;
+        font-size: 9pt;
+    }
+}
+@media screen and (max-width: 1199px){
+    .avatar{
+        float: none;
+    }
+    .avatar-text{
+        margin-left: 0;
+    }
+    table.table tr{
+        font-size: 11pt;
+    }
+    .add-col{
+        display: block;
+    }
+    /*15-applications*/
+    .table-applications>thead>tr>th{
+        font-size: 11pt;
+    }
+    .table-applications>tbody>tr>td{
+        font-size: 14pt;
+    }
+    .table-applications>tbody>tr>td p{
+        font-size: 12px;
+    }
+    .table-applications>tbody>tr>td:nth-of-type(2){
+        font-size: 12pt;
+    }
+    .table-applications>tbody>tr>td:nth-of-type(3){
+        font-size: 12pt;
+    }
+    #myModal .modal-dialog{
+        width: 100%;
+    }
+    #myModal .modal-content{
+        left: 0;
+        width: auto;
+    }
+}
+@media screen and (max-width: 1199px){
+    .back{
+        right: 0;
+    }
+}
+@media screen and (max-width: 999px){
+    .sidebar-content label.label-nav{
+        font-size: 11pt!important;
+        margin-left: 20px;
+    }
+    ul#sidebar-navigation li a{
+        font-size: 11pt;
+        padding-left: 20px;
+    }
+    .sidebar-head img{
+        width: 80%;
+    }
+    .form-control{
+        font-size: 10px!important;
+    }
+    ul#content-menu li a{
+        font-size: 9pt;
+    }
+    /*5-earnings.html*/
+    ul.tabs{
+        right: 0;
+    }
+    ul.tabs li{
+        margin: 0 10px 0 0!important;
+        padding: 0!important;
+    }
+}
+@media screen and (max-width: 870px){
+    table.table tr{
+        font-size: 9pt;
+    }
+    .add-col{
+        display: flex;
+        font-size: 9pt;
+    }
+    .ava{
+        padding: 20px 10px 0px 20px!important;
+    }
+}
