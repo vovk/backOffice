@@ -1,3 +1,11 @@
+@media screen and (max-width: 1600px){
+    .sidebar{
+        /*height: auto;*/
+    }
+    ul#sidebar-navigation{
+        margin-bottom: 0;
+    }
+}
 @media screen and (max-width: 1400px){
     h2{
         font-size: 25px!important;
@@ -28,7 +36,7 @@
         margin-bottom: 0;
     }
     ul#content-menu li{
-        margin: 0 2% 0px 2%;
+        margin: 0 2% 0 2%;
         width: auto!important;
     }
     .back{
@@ -58,7 +66,7 @@
         font-size: 9pt;
     }
 }
-@media screen and (max-width: 1199px){
+@media screen and (max-width: 1200px){
     .avatar{
         float: none;
     }
@@ -94,13 +102,19 @@
         left: 0;
         width: auto;
     }
-}
-@media screen and (max-width: 1199px){
     .back{
+        display: none;
         right: 0;
     }
+    /*17-influencers*/
+    .influencer-select #date{
+        font-size: 11pt;
+    }
+    p.label-value span img{
+        margin-right: 2%;
+    }
 }
-@media screen and (max-width: 999px){
+@media screen and (max-width: 1000px){
     .sidebar-content label.label-nav{
         font-size: 11pt!important;
         margin-left: 20px;
@@ -138,4 +152,85 @@
     .ava{
         padding: 20px 10px 0px 20px!important;
     }
+}
+@media screen and (max-width: 799px){
+    .cancel-button,.create-button{
+        padding: 10px 50px;
+    }
+}
+@media screen and (max-width: 768px){
+    .sidebar{
+        display: none;
+    }
+}
+@media screen and (max-width: 700px){
+    .content .content-title h2{
+        padding: 0;
+    }
+    .input-group{
+        width: 100%;
+    }
+    .input-group-btn, .form-control.search.search-bg{
+        display: none!important;
+    }
+    .content label.label-check:before{
+        bottom: -10px;
+    }
+    .table>thead>tr>th{
+        border: none!important;
+    }
+    ul#content-menu{
+        height: 25px;
+    }
+    .focus{
+        height: 25px;
+    }
+}
+@media screen and (max-width: 650px){
+    table.table tr{
+        font-size: 6pt;
+    }
+}
+@media screen and (max-width: 600px){
+    table.table tr{
+        font-size: 4pt;
+    }
+    .pagination span{
+        margin: 0 20px;
+        font-size: 9pt;
+    }
+    .pagination .glyphicon.glyphicon-menu-right, .pagination .glyphicon.glyphicon-menu-left{
+        font-size: 11px;
+    }
+    .content-main .label-value, .content-main .label-name{
+        font-size: 7pt;
+    }
+}
+@media screen and (max-width: 550px){
+    ul#content-menu li a{
+        font-size: 7px;
+    }
+}
+@media screen and (max-width: 500px){
+    .content label.label-check:before{
+        bottom: -12px;
+    }
+    .content-main .label-value, .content-main .label-name{
+        font-size: 5pt;
+    }
+    .content .content-title h2{
+        font-size: 15px!important;
+    }
+    .add-col{
+        font-size: 5pt;
+    }
+}
+@media screen and (max-width: 450px){
+    .content .content-title h2{
+        font-size: 12px!important;
+    }
+    .content-main .label-value, .content-main .label-name{
+        padding: 0;
+    }
+
 }
